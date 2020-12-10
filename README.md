@@ -12,7 +12,7 @@
 
 ## Инструкция по установке и запуску игры
 
-1. Перейти по ссылке : <https://HippoTeenUser.github.io/index.html/>
+1. Перейти по ссылке : <https://HippoTeenUser.github.io/>
 2. Следовать указанием игры.
 
 * * *
