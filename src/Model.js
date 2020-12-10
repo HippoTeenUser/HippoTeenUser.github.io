@@ -29,7 +29,7 @@ export let
     attmepss,
     hidden_word,
     openLetters,
-    words = ["Часы","Хлеб","Мачта","Околица","Репа"];
+    words = ["абсент","диплом","ворота","галета","бандит"];
 
 let getLetter;
 let attempt = 0;
